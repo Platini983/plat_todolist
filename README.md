@@ -2,7 +2,7 @@
 
 My TodoList App 
 
-### Live Version : (https://plat_todoList.vercel.app/)
+### Live Version : (https://plat-todolist.vercel.app/)
 
 ## Built With
 
